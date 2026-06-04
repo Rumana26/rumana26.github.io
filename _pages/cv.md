@@ -9,56 +9,65 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+[Download CV (PDF)]({{ base_path }}/files/cv.pdf){: .btn .btn--info}
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+---
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Education
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- **M.Sc. (Tech) in Computer Science and Engineering**
+  Jahangirnagar University
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+- **B.Sc. in Computer Science and Engineering**
+  Jahangirnagar University
+
+- **H.S.C.**, Govt. Sarda Sundari Mohila College
+
+- **S.S.C.**, Faridpur Govt. Girls' High School
+
+---
+
+## Academic Position
+
+- **Lecturer** (2024 – Present)
+  Department of Computer Science and Engineering
+  Faculty of Science & Technology (FST)
+  Bangladesh University of Professionals (BUP), Dhaka-1216
+
+---
+
+## Research Interests
+
+- Machine Learning & Deep Learning
+- Computer Vision & Medical Imaging
+- Natural Language Processing (NLP)
+- Graph Neural Networks (GNN)
+- Explainable AI (XAI)
+
+---
+
+## Publications
+
+See [Publications page](/publications/) for full list.
+
+**Journals:** 4 &nbsp;|&nbsp; **Conferences:** 3
+
+---
+
+## Awards & Honors
+
+- **National Science and Technology (NST) Fellowship**, 2022–23
+- **Academic Supplementary Scholarship**, Jahangirnagar University (2019, 2020, 2021)
+- **Government Scholarship (Talentpool Grade)**, H.S.C. result — 108th place, Dhaka Board
+- **Government Scholarship (General Grade)**, S.S.C. result
+- **Government Scholarship (General Grade)**, J.S.C. result
+- **Best Poster Award**, IEEE COMPAS 2024
+
+---
+
+## Profiles
+
+- Google Scholar: [6DCAdz4AAAAJ](https://scholar.google.com/citations?user=6DCAdz4AAAAJ&hl=en)
+- ORCID: [0009-0003-5599-5447](https://orcid.org/0009-0003-5599-5447)
+- Scopus: [57346800600](https://www.scopus.com/authid/detail.uri?authorId=57346800600)
+- ResearchGate: [Rumana-Yasmin-3](https://www.researchgate.net/profile/Rumana-Yasmin-3)

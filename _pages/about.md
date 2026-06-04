@@ -13,20 +13,21 @@ Her research interests lie in machine learning, computer vision, graph neural ne
 
 Research Interests
 ---
-Machine Learning & Deep Learning
-Computer Vision & Medical Imaging
-Natural Language Processing (NLP)
-Graph Neural Networks (GNN)
-Explainable AI (XAI)
-Intelligent Systems for Healthcare
+-Machine Learning & Deep Learning
+-Computer Vision & Medical Imaging
+-Natural Language Processing (NLP)
+-Graph Neural Networks (GNN)
+-Explainable AI (XAI)
+-Intelligent Systems for Healthcare
 
 News
 ===
-May 2026: Profile updated with latest publications and course information.
-Jul 2025: Paper on Bangla Sign Language Recognition published in Journal of FST, BUP (Volume 03, Issue 01).
-2025: Paper on ONUBAD: An Extensive Dataset for Automated Translation of Bangla Regional Dialects accepted in Data in Brief, Elsevier.
-Dec 2024: Presented conference paper at IEEE ICCIT 2024 — Spectral Feature Based Speech Recognition for Indigenous Chakma Language Using Deep Learning.
-Dec 2024: Presented conference paper at IEEE ICECE 2024 — Recognition of Butterflies of Bangladesh using Deep Learning.
-Nov 2024: Presented conference paper at IEEE COMPAS 2024 — Handwritten Chakma Numeral Classification using Deep Learning and Genetic Algorithm — Received Best Poster Award 🏆
-2024: Joined as Lecturer, Department of CSE, Bangladesh University of Professionals (BUP).
-2023: Paper on Butterfly Detection and Classification Techniques: A Review published in Intelligent Systems with Applications, Elsevier.
+-Jul 2025: Paper on Bangla Sign Language Recognition published in Journal of FST, BUP (Volume 03, Issue 01).
+-Feb 2025: Paper on ONUBAD: An Extensive Dataset for Automated Translation of Bangla Regional Dialects accepted in Data in Brief, Elsevier.
+-Dec 2024: Presented conference paper at IEEE ICCIT 2024 — Spectral Feature Based Speech Recognition for Indigenous Chakma Language Using Deep Learning.
+-Oct 2024: Presented conference paper at IEEE ICECE 2024 — Recognition of Butterflies of Bangladesh using Deep Learning.
+-Aug 2024: Presented conference paper at IEEE COMPAS 2024 — Handwritten Chakma Numeral Classification using Deep Learning and Genetic Algorithm — Received Best Poster Award 🏆
+-June 2024: Joined as Lecturer, Department of CSE, Bangladesh University of Professionals (BUP).
+-June 2023: Joined as Lecturer, Department of CSE, Bangladesh University of Business and technology (BUBT).
+-April 2023: Joined as Intern Software Engineer, Samsung R&D Bangladesh.
+-June 2022: Paper on Butterfly Detection and Classification Techniques: A Review published in Intelligent Systems with Applications, Elsevier.

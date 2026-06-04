@@ -14,10 +14,15 @@ Her research interests lie in machine learning, computer vision, graph neural ne
 Research Interests
 ---
 -Machine Learning & Deep Learning
+
 -Computer Vision & Medical Imaging
+
 -Natural Language Processing (NLP)
+
 -Graph Neural Networks (GNN)
+
 -Explainable AI (XAI)
+
 -Intelligent Systems for Healthcare
 
 News

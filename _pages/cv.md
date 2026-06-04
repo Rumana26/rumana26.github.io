@@ -15,7 +15,7 @@ redirect_from:
 
 ## Education
 
-- **M.Sc. (Tech) in Computer Science and Engineering**
+- **M.Sc. in Computer Science and Engineering**
   Jahangirnagar University
 
 - **B.Sc. in Computer Science and Engineering**

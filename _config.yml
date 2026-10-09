@@ -17,14 +17,16 @@ yandex_site_verification :
 # Site Author
 author:
   name             : "Rumana Yasmin"
-  avatar           : "images/profile.jpg"
-  bio              : "Lecturer in Computer Science & Engineering at Bangladesh University of Professionals (BUP)."
+  avatar           : "profile.jpg"
+  bio              : "Lecturer
+                      Department of Computer Science and Engineering
+                      Bangladesh University of Professionals "
   location         : "Dhaka, Bangladesh"
-  employer         : "Bangladesh University of Professionals"
+  employer         : 
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=6DCAdz4AAAAJ&hl=en"
   email            : "rumana.yasmin@bup.edu.bd"
-  researchgate     : "https://www.researchgate.net/profile/Rumana-Yasmin-3"
+  researchgate     : #"https://www.researchgate.net/profile/Rumana-Yasmin-3"
   uri              :
   bitbucket        :
   codepen          :
@@ -39,7 +41,7 @@ author:
   impactstory      :
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0009-0003-5599-5447"
+  orcid            : #"https://orcid.org/0009-0003-5599-5447"
   pinterest        :
   soundcloud       :
   stackoverflow    :
@@ -51,7 +53,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57346800600"
+  scopus           : #"https://www.scopus.com/authid/detail.uri?authorId=57346800600"
  
 # Reading Files
 include:

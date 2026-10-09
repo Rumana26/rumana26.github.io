@@ -1,26 +1,20 @@
 ---
 ---
-
 /*
  * This file controls what is imported from /_sass
  *
  * Note that the files are processed in the order they are imported, so they are partly
    sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
  */
-
 @import
     "vendor/breakpoint/breakpoint",
-
     "themes",
     "theme/{{ site.site_theme | default: 'default' | append: '_light' }}",
     "theme/{{ site.site_theme | default: 'default' | append: '_dark' }}",
-
     "include/mixins",
     "vendor/susy/susy",
-
     "layout/reset",
     "layout/base",
-
     "include/utilities",
     "layout/tables",
     "layout/buttons",
@@ -29,30 +23,83 @@
     "layout/navigation",
     "layout/footer",
     "syntax",
-
     "layout/forms",
-
     "layout/page",
     "layout/archive",
     "layout/sidebar",
     "layout/json_cv",
-
     "vendor/font-awesome/fontawesome",
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
 
+/* Lavender navbar */
 .masthead,
 .masthead__inner-wrap,
 .greedy-nav {
   background: #E6E6FA !important;
 }
 
-.greedy-nav a,
-.greedy-nav .visible-links a {
-  color: #2d2d2d !important;
+/* Navbar layout */
+.greedy-nav {
+  display: flex !important;
+  align-items: center !important;
+  justify-content: space-between !important;
+  padding: 0 1em !important;
 }
 
-.greedy-nav .visible-links a:before {
-  background: #6b5b95 !important;
+/* Name - plain text, left side */
+.site-title {
+  font-weight: 700 !important;
+  font-size: 1.2em !important;
+  color: #2d2d2d !important;
+  white-space: nowrap !important;
+}
+
+/* Nav links - right side */
+.visible-links {
+  display: flex !important;
+  list-style: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  align-items: center !important;
+}
+
+.visible-links li {
+  display: inline-block !important;
+}
+
+.visible-links a {
+  color: #2d2d2d !important;
+  padding: 0 0.8em !important;
+  text-decoration: none !important;
+}
+
+.visible-links a:hover {
+  color: #6b5b95 !important;
+}
+
+/* Hide hamburger */
+.greedy-nav button {
+  display: none !important;
+}
+
+/* Hide footer */
+.page__footer {
+  display: none !important;
+} 
+
+/* Sidebar */
+.sidebar {
+  margin-left: -2em !important;
+}
+
+.sidebar.sticky {
+  margin-left: -2em !important;
+}
+
+.visible-links,
+.visible-links li,
+.masthead__menu-item {
+  background: #E6E6FA !important;
 }

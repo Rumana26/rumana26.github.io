@@ -15,24 +15,29 @@ redirect_from:
 
 ## Education
 
-- **M.Sc. in Computer Science and Engineering**
+- **M.Sc. in Computer Science and Engineering**,
   Jahangirnagar University
 
-- **B.Sc. in Computer Science and Engineering**
+- **B.Sc. in Computer Science and Engineering**,
   Jahangirnagar University
-
-- **H.S.C.**, Govt. Sarda Sundari Mohila College
-
-- **S.S.C.**, Faridpur Govt. Girls' High School
 
 ---
 
 ## Academic Position
 
-- **Lecturer** (2024 – Present)
-  Department of Computer Science and Engineering
-  Faculty of Science & Technology (FST)
+- **Lecturer** (2024 – Present)<br>
+  Department of Computer Science and Engineering <br>
   Bangladesh University of Professionals (BUP), Dhaka-1216
+
+- **Lecturer** (2023 – 2024)<br>
+  Department of Computer Science and Engineering <br>
+  Bangladesh University of Business and Technology (BUBT), Dhaka-1216
+
+---
+
+## Industry Experience
+- **Intern Software Engineer** (April 2023 – July 2023)<br>
+  Samsung R&D Bangladesh
 
 ---
 
@@ -56,12 +61,12 @@ See [Publications page](/publications/) for full list.
 
 ## Awards & Honors
 
+- **Best Poster Award**, IEEE COMPAS 2024
 - **National Science and Technology (NST) Fellowship**, 2022–23
 - **Academic Supplementary Scholarship**, Jahangirnagar University (2019, 2020, 2021)
 - **Government Scholarship (Talentpool Grade)**, H.S.C. result — 108th place, Dhaka Board
 - **Government Scholarship (General Grade)**, S.S.C. result
 - **Government Scholarship (General Grade)**, J.S.C. result
-- **Best Poster Award**, IEEE COMPAS 2024
 
 ---
 

@@ -11,13 +11,13 @@ My research lies at the intersection of **machine learning**, **computer vision*
 
 ## Research Interests
 
-- **Machine Learning & Deep Learning** — neural architectures, model optimization, transfer learning
-- **Computer Vision** — image classification, object detection, medical image analysis
-- **Natural Language Processing (NLP)** — low-resource NLP, Bangla language processing, dialect translation
-- **Graph Neural Networks (GNN)** — graph-based learning for structured data
-- **Explainable AI (XAI)** — interpretable models, transparency in AI systems
-- **Healthcare AI** — disease detection, clinical decision support
-- **Endangered Language Preservation** — speech and script recognition for indigenous Bangladeshi languages (Chakma)
+- **Machine Learning & Deep Learning** 
+- **Computer Vision** 
+- **Natural Language Processing (NLP)** 
+- **Graph Neural Networks (GNN)**
+- **Explainable AI (XAI)** 
+- **Healthcare AI**
+- **Intelligent Systems for Healthcare** 
 
 ---
 
@@ -34,13 +34,14 @@ Applying deep learning for butterfly species recognition and plant disease detec
 
 ---
 
-## Collaborations
+<!-- ## Collaborations
 
 - Department of Computer Science and Engineering, Jahangirnagar University
-- BUP Faculty of Science & Technology
+- BUP Faculty of Science & Technology -->
 
 ---
 
 ## Funding
 
+- BUP Research Project, Funded by UGC, Bangladesh (2026–27)
 - National Science and Technology (NST) Fellowship, Ministry of Science and Technology, Bangladesh (2022–23)

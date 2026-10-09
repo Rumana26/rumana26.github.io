@@ -5,19 +5,17 @@ permalink: /contact/
 author_profile: true
 ---
 
+**Rumana Yasmin** <br>
+Lecturer<br> Department of Computer Science and Engineering<br>
+Faculty of Science & Technology (FST)<br>
+Bangladesh University of Professionals (BUP)<br>
+Mirpur Cantonment, Dhaka-1216, Bangladesh <br>
+Email: [rumana.yasmin@bup.edu.bd](mailto:rumana.yasmin@bup.edu.bd)
+
+---
 ## Get in Touch
 
 I welcome inquiries related to research collaboration, academic opportunities, and student mentorship.
-
----
-
-**Rumana Yasmin**
-Lecturer, Department of Computer Science and Engineering
-Faculty of Science & Technology (FST)
-Bangladesh University of Professionals (BUP)
-Mirpur Cantonment, Dhaka-1216, Bangladesh
-
-📧 **Email:** [rumana.yasmin@bup.edu.bd](mailto:rumana.yasmin@bup.edu.bd)
 
 ---
 
